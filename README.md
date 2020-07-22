@@ -1,8 +1,10 @@
 ### Hi there 👋
+![brightgreen](https://komarev.com/ghpvc/?username=your-github-username)
 
 #### I'm Harsh Singh. Glad you opened my profile. Have a nice day.
-- 💬 Ask me about ... Sports(PS- I like Football 😄), Video Games, Programming.
+- 💬 Ask me about ... Sports(PS- I like Football 😄), Video Games, Movies, Programming.
 - 📫 How to reach me: ...Linkedin - @harshsngh07
+- ⚡ Fun fact: I'm a huge fan of Harry Potter
 <!--
 **Harshsngh07/Harshsngh07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
