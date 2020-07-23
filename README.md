@@ -5,7 +5,12 @@
 - 💬 Ask me about ... Sports(PS- I like Football 😄), Video Games, Movies, Programming.
 - 📫 How to reach me: ...Linkedin - @harshsngh07
 - ⚡ Fun fact: I'm a huge fan of Harry Potter
+
+
+<img src="https://github-readme-stats.vercel.app/api?username=harshsngh07&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919">
+
 <!--
+
 **Harshsngh07/Harshsngh07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
