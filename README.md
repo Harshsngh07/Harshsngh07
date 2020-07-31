@@ -3,7 +3,7 @@
 
 #### I'm Harsh Singh. Glad you opened my profile. Have a nice day.
 - 💬 Ask me about ... Sports(PS- I like Football 😄), Video Games, Movies, Programming.
-- 📫 How to reach me: ...Linkedin - @harshsngh07
+- 📫 How to reach me: ...Linkedin - [@harshsngh07](https://www.linkedin.com/in/harshsngh07/)
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I'm a huge fan of Harry Potter
 
