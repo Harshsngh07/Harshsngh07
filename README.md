@@ -1,7 +1,6 @@
-### Hi there 👋
+### Hi there, 👋 I'm Harsh.
 ![brightgreen](https://komarev.com/ghpvc/?username=Harshsngh07)
 
-#### I'm Harsh Singh. Glad you opened my profile. Have a nice day.
 - 💬 Ask me about ... Sports(PS- I like Football 😄), Video Games, Movies, Programming.
 - 📫 How to reach me:  [Linkedin](https://www.linkedin.com/in/harshsngh07/)
 - 😄 Pronouns: He/His
@@ -23,6 +22,8 @@
 
 
 <img src="https://github-readme-stats.vercel.app/api?username=harshsngh07&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919">
+
+#### Glad you opened my profile. Have a nice day.
 
 <!--
 
