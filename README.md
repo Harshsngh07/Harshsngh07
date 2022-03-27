@@ -1,10 +1,10 @@
 ### Hi there, 👋 I'm Harsh.
 ![brightgreen](https://komarev.com/ghpvc/?username=Harshsngh07)
 
-- 💬 Ask me about ... Sports(PS- I like Football 😄), Video Games, Movies, Programming.
+- 💬 Ask me about ... Sports(PS- I like Football 😄), Games, Movies, Programming.
 - 📫 How to reach me:  [Linkedin](https://www.linkedin.com/in/harshsngh07/)
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: I'm a huge fan of Harry Potter
+- ⚡ Fun fact: I'm a huge fan of Harry Potter and FPS games.
 
 ##### Languages I use
 
